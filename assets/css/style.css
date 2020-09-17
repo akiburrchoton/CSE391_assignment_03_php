@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    ;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Righteous', cursive;
+}
+
+p{
+    
+    margin-bottom: 0;
+}
+
+.s-l-form{
+    padding-top: 100px;
+}
+
+.s-l-box{
+    padding: 20px;
+    background: #f7f7f7;
+    box-shadow: 0px 10px 15px #adadad;
+    border-radius: 5px;
+}
+
+.buttons{
+    margin-top: 30px;
+}
+
+.user-btn {
+    color: #fff;
+     
+}
+
+.user-btn a{
+    text-decoration: none;
+    color : #fff!important;
+} 
